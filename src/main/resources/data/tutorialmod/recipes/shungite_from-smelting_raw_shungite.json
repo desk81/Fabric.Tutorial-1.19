@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 1200,
+  "experience": 0.9,
+  "group": "funnies",
+  "ingredient": {
+    "item": "tutorialmod:raw_shungite"
+  },
+  "result": "tutorialmod:shungite"
+}

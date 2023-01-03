@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 1000,
+  "experience": 0.9,
+  "group": "funnies",
+  "ingredient": {
+    "item": "tutorialmod:raw_shungite"
+  },
+  "result": "tutorialmod:shungite"
+}

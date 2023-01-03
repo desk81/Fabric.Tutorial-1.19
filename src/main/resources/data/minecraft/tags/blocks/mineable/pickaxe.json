@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "tutorialmod:shungite_block",
+    "tutorialmod:shungite_ore",
+    "tutorialmod:deepslate_shungite_ore"
+  ]
+}
