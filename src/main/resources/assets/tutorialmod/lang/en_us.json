@@ -2,5 +2,9 @@
   "item.tutorialmod.raw_shungite": "Raw Shungite",
   "item.tutorialmod.shungite": "Shungite",
 
+  "block.tutorialmod.shungite_block": "Block of Shungite",
+  "block.tutorialmod.deepslate_shungite_ore": "Deepslate Shungite Ore",
+  "block.tutorialmod.shungite_ore": "Shungite Ore",
+
   "itemgroup.tutorialmod.funnies": "Funnies Tab"
 }
